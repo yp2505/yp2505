@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <img src="./assets/dark%20(1).svg" width="100%" alt="Yug Patel Banner">
+  <img src="./assets/dark%20.svg" width="100%" alt="Yug Patel Banner">
 </picture>
 
 </div>
