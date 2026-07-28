@@ -9,32 +9,24 @@
 </picture>
 </p>
 
-<!-- SECTION 1: PROFILE OVERVIEW -->
+<!-- GITHUB ANALYTICS DASHBOARD (MATCHING REFERENCE SCREENSHOT) -->
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 1: PROFILE OVERVIEW -->
+<!-- GITHUB ANALYTICS DASHBOARD (MATCHING REFERENCE SCREENSHOT) -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-<table width="100%" style="background-color: #080E21; border: 1px solid #00F0FF; border-radius: 8px;">
+<table width="100%" style="background-color: #080E21; border: 1px solid #00F0FF; border-radius: 8px; border-collapse: separate; border-spacing: 0;">
 <tr>
-<td style="padding: 16px;">
-  <h2 style="color: #00F0FF; margin: 0 0 4px 0; font-size: 20px;">⚡ YUG PATEL</h2>
-  <b style="color: #FF007F; font-size: 13px;">Data & ML Engineer</b>
-  <p style="color: #F0F6FF; font-size: 13px; line-height: 1.5; margin: 8px 0 12px 0;">
-    Data & ML Engineer focused on designing high-throughput data pipelines, real-time streaming engines, and autonomous AI systems. Driven by clean code and system resilience.
-  </p>
-  <table width="100%" style="font-size: 12px;">
-    <tr>
-      <td width="33%"><b style="color:#FF007F;">🎓 Education:</b> <code style="color:#F0F6FF;">Gujarat Technological University</code></td>
-      <td width="33%"><b style="color:#FF007F;">📍 Location:</b> <code style="color:#F0F6FF;">Gujarat, India 🇮🇳 (UTC+5:30)</code></td>
-      <td width="34%"><b style="color:#FF007F;">🟢 Status:</b> <span style="color:#00FF66; font-weight:bold;">● Building + Learning</span></td>
-    </tr>
-  </table>
-  <div style="margin-top: 12px;">
-    <a href="https://github.com/yp2505"><img src="https://img.shields.io/badge/GitHub-040711?style=flat-square&logo=github&logoColor=00F0FF" alt="GitHub" /></a>
-    &nbsp;
-    <a href="https://linkedin.com/in/yug-patel"><img src="https://img.shields.io/badge/LinkedIn-040711?style=flat-square&logo=linkedin&logoColor=0077B5" alt="LinkedIn" /></a>
-  </div>
+<td width="50%" align="center" style="padding: 12px; border-right: 1px solid #10223D; border-bottom: 1px solid #10223D;">
+  <img src="https://github-readme-stats.vercel.app/api?username=yp2505&show_icons=true&theme=cyberpunk&bg_color=040711&title_color=00F0FF&text_color=F0F6FF&icon_color=FF007F&border_color=00F0FF" alt="Yug Patel's GitHub Stats" width="100%"/>
+</td>
+<td width="50%" align="center" style="padding: 12px; border-bottom: 1px solid #10223D;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yp2505&layout=compact&theme=cyberpunk&bg_color=040711&title_color=00F0FF&text_color=F0F6FF&border_color=00F0FF" alt="Most Used Languages" width="100%"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" style="padding: 12px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yp2505&theme=cyberpunk&background=040711&stroke=00F0FF&ring=FF007F&fire=FF007F&currStreakNum=F0F6FF&sideNums=F0F6FF&sideTitle=00F0FF&currStreakLabel=00F0FF" alt="GitHub Contribution Streak" width="100%"/>
 </td>
 </tr>
 </table>
@@ -42,111 +34,50 @@
 <br/>
 
 
-<!-- SECTION 2: TECH STACK & CURRENT LEARNING -->
+<!-- FEATURED PROJECTS GRID (MATCHING REFERENCE SCREENSHOT) -->
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 2: TECH STACK & CURRENT LEARNING -->
+<!-- PROJECTS DASHBOARD GRID (MATCHING REFERENCE SCREENSHOT) -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-<table width="100%" style="background-color: #080E21; border: 1px solid #10223D; border-radius: 8px;">
+<h3 style="color: #00F0FF; margin: 14px 0 8px 0; font-size: 14px;">💻 FEATURED REPOSITORIES & PROJECTS</h3>
+
+<table width="100%" style="border-collapse: separate; border-spacing: 0;">
+
 <tr>
-<td width="60%" valign="top" style="padding: 16px; border-right: 1px solid #10223D;">
-  <h3 style="color: #00F0FF; margin: 0 0 10px 0; font-size: 14px;">🛠️ CORE TECHNOLOGIES & LIBRARIES</h3>
-  <div style="line-height: 2.2;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="26"/> &nbsp; <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" height="26"/> &nbsp; <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" height="26"/> &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" height="26"/> &nbsp; <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" height="26"/> &nbsp; <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="26"/> &nbsp; <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" height="26"/> &nbsp; <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" height="26"/> &nbsp; <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" height="26"/> &nbsp; <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="26"/> &nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="26"/> &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" alt="Linux" height="26"/> &nbsp; <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="26"/> &nbsp; <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="26"/> &nbsp; <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="26"/> &nbsp; <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" height="26"/> &nbsp; <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" height="26"/>
-  </div>
-</td>
-
-<td width="40%" valign="top" style="padding: 16px;">
-  <h3 style="color: #00F0FF; margin: 0 0 10px 0; font-size: 14px;">🧠 CURRENTLY LEARNING</h3>
-  <ul style="list-style-type: none; padding-left: 0; margin: 0; font-size: 12px;">
-    <li style='margin-bottom: 6px;'><code style='color: #00F0FF;'>▸</code> <span style='color: #F0F6FF;'>Cloud Computing Architecture</span></li><li style='margin-bottom: 6px;'><code style='color: #00F0FF;'>▸</code> <span style='color: #F0F6FF;'>Advanced Data Engineering & Streaming</span></li><li style='margin-bottom: 6px;'><code style='color: #00F0FF;'>▸</code> <span style='color: #F0F6FF;'>Machine Learning Systems</span></li><li style='margin-bottom: 6px;'><code style='color: #00F0FF;'>▸</code> <span style='color: #F0F6FF;'>LLMs & Agentic DAG Orchestration</span></li><li style='margin-bottom: 6px;'><code style='color: #00F0FF;'>▸</code> <span style='color: #F0F6FF;'>Distributed System Design</span></li>
-  </ul>
-</td>
-</tr>
-</table>
-
-<br/>
-
-
-<!-- SECTION 3: FEATURED PROJECTS -->
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 3: FEATURED PROJECTS -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<h3 style="color: #00F0FF; margin: 14px 0 8px 0; font-size: 14px;">💻 FEATURED PROJECTS</h3>
-
-
-<table width="100%" style="background-color: #080E21; border: 1px solid #00F0FF; border-radius: 8px; margin-bottom: 12px;">
-<tr>
-<td style="padding: 16px;">
-  <table width="100%">
+  
+<td width="50%" valign="top" style="padding: 6px;">
+  <table width="100%" height="100%" style="background-color: #080E21; border: 1px solid #10223D; border-radius: 8px;">
   <tr>
-    <td><h4 style="color: #00F0FF; margin: 0; font-size: 15px;">🚀 Griot AI Platform</h4></td>
-    <td align="right">
-      <span style="background-color: #00FF66; color: #040711; padding: 2px 8px; border-radius: 10px; font-size: 10px; font-weight: bold;">
-        ● Live Production
-      </span>
-    </td>
+  <td style="padding: 14px; vertical-align: top;">
+    <table width="100%">
+    <tr>
+      <td><h4 style="color: #00F0FF; margin: 0; font-size: 14px;">🚀 Griot AI Platform</h4></td>
+      <td align="right">
+        <span style="color: #00FF66; font-size: 11px; font-weight: bold;">
+          ● Live Production
+        </span>
+      </td>
+    </tr>
+    </table>
+    <p style="color: #F0F6FF; font-size: 12px; line-height: 1.4; margin: 8px 0 10px 0; min-height: 34px;">
+      Autonomous DAG orchestration platform with self-healing Llama 3 execution engine and security layer.
+    </p>
+    <div style="margin-bottom: 10px;">
+      <span style="background-color:#10223D; color:#00F0FF; padding:2px 6px; border-radius:4px; font-size:10px; font-weight:bold;">FastAPI</span> <span style="background-color:#10223D; color:#00F0FF; padding:2px 6px; border-radius:4px; font-size:10px; font-weight:bold;">Groq API</span> <span style="background-color:#10223D; color:#00F0FF; padding:2px 6px; border-radius:4px; font-size:10px; font-weight:bold;">Llama 3</span> <span style="background-color:#10223D; color:#00F0FF; padding:2px 6px; border-radius:4px; font-size:10px; font-weight:bold;">React</span> <span style="background-color:#10223D; color:#00F0FF; padding:2px 6px; border-radius:4px; font-size:10px; font-weight:bold;">Composio</span>
+    </div>
+    <div>
+      <a href="https://github.com/yp2505/griot-ai"><img src="https://img.shields.io/badge/Code-040711?style=flat-square&logo=github&logoColor=00F0FF" alt="Code" /></a>
+      &nbsp; <a href="https://griot-ai.up.railway.app"><img src="https://img.shields.io/badge/Demo-040711?style=flat-square&logo=firefox&logoColor=FF007F" alt="Live Demo" /></a>
+    </div>
+  </td>
   </tr>
   </table>
-  <p style="color: #F0F6FF; font-size: 12.5px; line-height: 1.5; margin: 8px 0 12px 0;">
-    Autonomous DAG orchestration platform with self-healing Llama 3 execution engine and security layer.
-  </p>
-  <div style="margin-bottom: 10px;">
-    <span style="background-color:#10223D; color:#00F0FF; padding:2px 6px; border-radius:4px; font-size:10px; font-weight:bold;">FastAPI</span> <span style="background-color:#10223D; color:#00F0FF; padding:2px 6px; border-radius:4px; font-size:10px; font-weight:bold;">Groq API</span> <span style="background-color:#10223D; color:#00F0FF; padding:2px 6px; border-radius:4px; font-size:10px; font-weight:bold;">Llama 3</span> <span style="background-color:#10223D; color:#00F0FF; padding:2px 6px; border-radius:4px; font-size:10px; font-weight:bold;">React</span> <span style="background-color:#10223D; color:#00F0FF; padding:2px 6px; border-radius:4px; font-size:10px; font-weight:bold;">Composio</span>
-  </div>
-  <div>
-    <a href="https://github.com/yp2505/griot-ai"><img src="https://img.shields.io/badge/Code-040711?style=flat-square&logo=github&logoColor=00F0FF" alt="Code" /></a>
-    &nbsp; <a href="https://griot-ai.up.railway.app"><img src="https://img.shields.io/badge/Live_Demo-040711?style=flat-square&logo=firefox&logoColor=FF007F" alt="Live Demo" /></a>
-  </div>
 </td>
+
+  <td width='50%'></td>
 </tr>
-</table>
 
-
-
-<table width="100%" style="background-color: #080E21; border: 1px dashed #FF007F; border-radius: 8px;">
-<tr>
-<td align="center" style="padding: 14px;">
-  <span style="color: #FF007F; font-weight: bold; font-size: 13px;">⚡ MORE PROJECTS CURRENTLY BUILDING…</span>
-</td>
-</tr>
-</table>
-
-
-<br/>
-
-
-<!-- SECTION 4: CERTIFICATIONS & CONTACT -->
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 4: CERTIFICATIONS & CONTACT -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<table width="100%" style="background-color: #080E21; border: 1px solid #10223D; border-radius: 8px;">
-<tr>
-
-<!-- LEFT: CERTIFICATIONS -->
-<td width="50%" valign="top" style="padding: 16px; border-right: 1px solid #10223D;">
-  <h3 style="color: #00F0FF; margin: 0 0 8px 0; font-size: 14px;">📜 CERTIFICATIONS</h3>
-  <p style="color: #5A7099; font-size: 12px; margin: 0; font-style: italic;">
-    Currently preparing for official AWS & Data Engineering certifications.
-  </p>
-</td>
-
-<!-- RIGHT: CONNECT & CONTACT -->
-<td width="50%" valign="top" style="padding: 16px;">
-  <h3 style="color: #00F0FF; margin: 0 0 8px 0; font-size: 14px;">🌐 CONNECT & CONTACT</h3>
-  <div style="font-size: 12px; line-height: 1.8;">
-    <div><b style="color: #FF007F;">GitHub:</b> &nbsp; <a href="https://github.com/yp2505" style="color: #00F0FF;">github.com/yp2505</a></div>
-    <div><b style="color: #FF007F;">LinkedIn:</b> &nbsp; <a href="https://linkedin.com/in/yug-patel" style="color: #00F0FF;">linkedin.com/in/yug-patel</a></div>
-    <div><b style="color: #FF007F;">Email:</b> &nbsp; <a href="yugpatel@example.com" style="color: #00F0FF;">yugpatel@example.com</a></div>
-  </div>
-</td>
-
-</tr>
 </table>
 
 <br/>
